@@ -1,2 +1,2 @@
 # ham-challenege
-A simple tool to randomly pick a task from the ham challenge list
+A simple tool to randomly pick a task from the [ham challenge](https://hamchallenge.org/) list
